@@ -68,7 +68,6 @@ h3::before{
   display: inline-block;
   vertical-align: middle;
   width: 130px;
-  height: 3px;
   border: 2px solid #858585;
 }
 .loading__JS::before{
@@ -91,6 +90,13 @@ h3::before{
   width: 100px;
   height: 3px;
   background-color: red;
+}
+.loading__box:hover::before{
+  box-shadow: 0px 0px 8px 2px red;
+}
+h2{
+  visibility: hidden;
+  position: absolute;
 }
 .skill{
   display: flex;
