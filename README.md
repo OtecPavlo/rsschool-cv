@@ -1,2 +1,2 @@
-## https://otecpavlo.github.io/rsschool-cv/cv
-## https://otecpavlo.github.io/rsschool-cv
+## [1. CV Markdown](https://otecpavlo.github.io/rsschool-cv/cv)
+## [2. CV HTML](https://otecpavlo.github.io/rsschool-cv)
